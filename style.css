@@ -1,0 +1,247 @@
+*{
+  margin: 0;
+  padding: 0;
+  color: #fff;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    background-size: auto ;
+    color: #dd1313;
+    color:#110101 ;
+    background-image: url('./background im.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    button{
+      color: #110101;
+    }
+
+  }
+  .gol{
+    background-color: #fff;
+  }
+  header {
+    h1{
+      color: #110101;
+    }
+    
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  header nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  header nav ul li {
+    display: inline;
+    margin: 0 15px;
+  }
+  
+  header nav ul li a {
+    color: rgb(6, 107, 40);
+    text-decoration: none;
+  }
+  
+  main {
+    padding: 20px;
+    text-align: center;
+  }
+  .rrr{
+    p{
+      color: #144b94;
+    }
+  }
+  
+  footer {
+    p{
+      color: #4d0707;
+    }
+    color: rgb(5, 5, 5);
+    h6{
+      color: #4d0707;
+    }
+    text-align: center;
+    padding: 0px ;
+    position: unset;
+    width: 100%;
+    bottom: 0;
+  }
+  
+  .t{
+    display: block;
+    margin-left: 40%;
+    margin-left: 40%;
+    
+  }
+  
+  
+  
+  .d{
+    width: 200px;
+    display: block;
+    margin-left: 40%;
+    margin-left: 40%;
+  
+  }
+  .w{
+    display: block;
+    margin-left: 35%;
+    margin-left: 35%;
+  }
+  .c{
+    width: 350px;
+    display: block;
+    margin-left: 60%;
+    margin-left: 60%;
+  
+  }
+  .a{
+    width: 350px;
+    display: block;
+    margin-left: 40%;
+    margin-left: 40%;
+  }
+  
+  .shivam{
+    font-size: 30px;
+  }
+  .shiva{
+    font-size: 60px;
+  }
+  .heading{
+    font-size: 70px;
+  }
+  .sub{
+    font-size: 60px;
+  }
+  .dia{
+    font-size: 30px;
+  }
+  .wea{
+    font-size: 30px;
+  }
+  .foo{
+    font-size: 30px;
+  }
+  .abo{
+    font-size: 70px;
+  }
+  .sun{
+    font-size: 40px;
+  }
+  .it{
+    font-size: 40px;
+  }
+  .tec{
+    font-size: 40px;
+  }
+  .pro{
+    font-size: 20px;
+  }
+  .som{
+    font-size: 20px;
+  }
+  .OUR{
+    font-size: 70px;
+  }
+  .PAR{
+    font-size: 70PX;
+  }
+  .our{
+    font-size: 60px;
+  }
+  .tel{
+    font-size: 30px;
+  }
+  .hel{
+    font-size: 30px;
+  }
+  .el{
+    font-size: 30px;
+  }
+  .ai{
+    font-size: 30px;
+
+  }
+  .ep{
+    a{
+      color: #144b94;
+    }
+    font-size: 20px;
+  }
+  .lo{
+    a{
+      color: #144b94;
+    }
+    font-size: 20px;
+
+  }
+  .mi{
+    a{
+      color: #144b94;
+    }
+    font-size: 20px;
+  }
+  .co{
+    font-size: 50px;
+  }
+  .se{
+    font-size: 60px;
+  }
+  .use{
+    font-size: 70px;
+  }
+  .name{
+    font-size: 30px;
+    display: block;
+    margin-left: 40%;
+    margin-left: 40%;
+  }
+  .em{
+    font-size: 30px;
+    display: block;
+    margin-left: 40%;
+    margin-left: 40%;
+  }
+  .mess{
+    font-size: 30px;
+    display: block;
+    margin-left: 40%;
+    margin-left: 40%;
+  }
+  
+    
+  
+  .to{
+    font-size: 40px;
+  }
+  .column{
+    float: left;
+    width: 30%;
+    padding: 20px;
+  }
+  .row ::after{
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .co{
+    float: left ;
+    width: 10%;
+    padding: 10px;
+  }
+  .ro ::after{
+    content: "";
+    display: table;
+    clear: both;
+  
+  }
+  .la{
+    font-size: 20px;
+
+  }
+  
